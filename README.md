@@ -1,18 +1,19 @@
-## My Project
+# xSTREET: Multilingual Structured Reasoning and Explanation Benchmark
+<img src="images/xSTREET_graphs.png"  width="900">
 
-TODO: Fill this README out!
+### Datasets
+* ARC 
+* GSM8K
+* AR-LSAT
+* AQUA-RAT
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
-
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+In addition to English, the datasets are available in the following Languages:
+* Spanish
+* Arabic
+* Russian
+* Japanese
+* Chinese 
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
-
+This project is licensed under the CC-BY-4.0 License.
